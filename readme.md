@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">A passionate FULLSTACK DEVELOPER</h3>
 
-[<img align = "right" height = "300" weight = "400" src = "https://imgs.search.brave.com/QH6a7hxHYyMjJpqsJwvB1eTlTgL_lTS4-ZKRmy9qbPA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/cGl4YWJheS5jb20v/cGhvdG8vMjAyMS8w/OC8wNC8xMy8wNi9z/b2Z0d2FyZS1kZXZl/bG9wZXItNjUyMTcy/MF82NDAuanBn" >](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)
+<img align = "right" height = "300" weight = "400" src = "https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geek-nikhil&label=Profile%20views&color=0e75b6&style=flat" alt="geek-nikhil" /> </p>
 
