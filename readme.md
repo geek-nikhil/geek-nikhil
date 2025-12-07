@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web development, Hackathon, Projects**
 
-- 📫 How to reach me **nikhilraikwar846@gmmail.com**
+- 📫 How to reach me **nikhilraikwar846@gmail.com**
 
 
 ### I code in
