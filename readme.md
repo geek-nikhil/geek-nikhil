@@ -31,7 +31,3 @@
 ## LEETCODE
  ![LeetCode Stats](https://leetcard.jacoblin.cool/nikhil846?theme=dark&font=Poly)
 
-## GITHUB
-  ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=geek-nikhil&bg_color=000000&color=fffaff&line=0e3503&point=ffffff&area=true&hide_border=true)
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil846&" alt="geek-nikhil" /></p>
